@@ -1,0 +1,4 @@
+org\hasandag\entity\User.class
+org\hasandag\UserApi.class
+org\hasandag\Application.class
+org\hasandag\reository\UserRepository.class

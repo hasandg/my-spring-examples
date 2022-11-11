@@ -1,0 +1,10 @@
+com\hasandag\controller\PersonController.class
+com\hasandag\service\impl\PersonServiceImpl.class
+com\hasandag\service\PersonService.class
+com\hasandag\entitiy\Address.class
+com\hasandag\DataJpaApplication.class
+com\hasandag\entitiy\Address$AddressType.class
+com\hasandag\entitiy\Person.class
+com\hasandag\repo\AddressRepository.class
+com\hasandag\dto\PersonDto.class
+com\hasandag\repo\PersonRepository.class

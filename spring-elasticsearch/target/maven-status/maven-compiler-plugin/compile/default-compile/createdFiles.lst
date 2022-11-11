@@ -1,0 +1,4 @@
+com\hasandag\Application.class
+com\hasandag\entitiy\Person.class
+com\hasandag\repository\PersonRepository.class
+com\hasandag\api\PersonController.class

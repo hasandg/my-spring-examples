@@ -1,0 +1,5 @@
+com\hasandag\sr\producer\NotificationProducer.class
+com\hasandag\sr\RabbitApplication.class
+com\hasandag\sr\model\Notification.class
+com\hasandag\sr\listener\NotificationListener.class
+com\hasandag\sr\config\RabbitMQConfiguration.class
