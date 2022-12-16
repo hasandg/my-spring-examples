@@ -15,6 +15,7 @@
         <module>spring-boot-api-doc</module>
         <module>spring-boot-rabbitmq</module>
         <module>spring-boot-dockerization</module>
+        <module>spring-boot-graphql</module>
         <!--  <module>sping-hello-world</module>-->
        <!-- <module>spring-elasticsearch</module>
         <module>spring-datajpa-postgresql</module>

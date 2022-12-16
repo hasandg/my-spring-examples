@@ -1,0 +1,2 @@
+Graphql Java Spring support has some problems. after 2018 no version updated!!!
+I get error with Java 17!
