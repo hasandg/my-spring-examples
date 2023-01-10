@@ -24,6 +24,7 @@
           <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.4.2.Final/mapstruct-processor-1.4.2.Final.jar" />
           <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.4.2.Final/mapstruct-1.4.2.Final.jar" />
         </processorPath>
+        <module name="spring-boot-events" />
         <module name="spring-redis-cache" />
         <module name="spring-mongo-rest-api" />
         <module name="spring-boot-pagination" />
@@ -38,6 +39,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-boot-api-doc" options="-parameters" />
       <module name="spring-boot-dockerization" options="-parameters" />
+      <module name="spring-boot-events" options="-parameters" />
       <module name="spring-boot-graphql" options="-parameters" />
       <module name="spring-boot-pagination" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />

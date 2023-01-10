@@ -20,6 +20,7 @@
         <module>spring-redis-cache</module>
         <module>spring-boot-websocket</module>
         <module>spring-boot-pagination</module>
+        <module>spring-boot-events</module>
         <!--  <module>sping-hello-world</module>-->
        <!-- <module>spring-elasticsearch</module>
         <module>spring-datajpa-postgresql</module>
