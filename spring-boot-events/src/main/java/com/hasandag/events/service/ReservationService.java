@@ -1,6 +1,5 @@
 package com.hasandag.events.service;
 
-import com.hasandag.events.api.BookingApi;
 import com.hasandag.events.api.HotelBookRequest;
 import com.hasandag.events.event.ReservationCreatedEvent;
 import org.springframework.beans.factory.annotation.Autowired;

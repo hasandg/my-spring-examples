@@ -1,0 +1,5 @@
+postman
+POST message
+Body ->  in Key area type "File"
+File -> Select File
+Send

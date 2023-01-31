@@ -26,6 +26,7 @@
         </processorPath>
         <module name="spring-boot-events" />
         <module name="spring-redis-cache" />
+        <module name="spring-boot-gridfs-fileupload" />
         <module name="spring-mongo-rest-api" />
         <module name="spring-boot-pagination" />
         <module name="spring-boot-websocket" />
@@ -41,6 +42,7 @@
       <module name="spring-boot-dockerization" options="-parameters" />
       <module name="spring-boot-events" options="-parameters" />
       <module name="spring-boot-graphql" options="-parameters" />
+      <module name="spring-boot-gridfs-fileupload" options="-parameters" />
       <module name="spring-boot-pagination" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />
       <module name="spring-boot-rest-template" options="-parameters" />

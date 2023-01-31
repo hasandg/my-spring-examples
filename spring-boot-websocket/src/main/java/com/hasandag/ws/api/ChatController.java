@@ -3,7 +3,6 @@ package com.hasandag.ws.api;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
-import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -16,10 +15,11 @@ public class ChatController {
     private SimpMessagingTemplate messagingTemplate;
 
     @MessageMapping("/chat")
-    //@SendTo("topic")
+    //@SendTo("/topic")
     //@SendToUser()
     public void chatEndpoint(@Payload WsMessage wsMessage){
         System.out.println(wsMessage);
-        messagingTemplate.convertAndSend("topic",wsMessage);
+        messagingTemplate.convertAndSend("/topic",wsMessage);
+        // '/' character is so imported if url not starts with that messages not going to "/topic" group
     }
 }
