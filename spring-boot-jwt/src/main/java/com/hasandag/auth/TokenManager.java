@@ -1,4 +1,4 @@
-package com.haydikodlayalim.auth;
+package com.hasandag.auth;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
@@ -17,7 +17,7 @@ public class TokenManager {
     public String generateToken(String username) {
         return Jwts.builder()
                 .setSubject(username)
-                .setIssuer("www.haydikodlayalim.com")
+                .setIssuer("www.hasandag.com")
                 .setIssuedAt(new Date(System.currentTimeMillis()))
                 .setExpiration(new Date(System.currentTimeMillis() + validity))
                 .signWith(key)

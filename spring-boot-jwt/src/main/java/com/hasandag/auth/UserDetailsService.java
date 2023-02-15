@@ -1,4 +1,4 @@
-package com.haydikodlayalim.auth;
+package com.hasandag.auth;
 
 import java.util.ArrayList;
 import java.util.HashMap;

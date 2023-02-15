@@ -1,4 +1,4 @@
-package com.haydikodlayalim.request;
+package com.hasandag.request;
 
 public class LoginRequest {
 

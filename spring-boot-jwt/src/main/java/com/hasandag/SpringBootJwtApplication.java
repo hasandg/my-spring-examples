@@ -1,4 +1,4 @@
-package com.haydikodlayalim;
+package com.hasandag;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

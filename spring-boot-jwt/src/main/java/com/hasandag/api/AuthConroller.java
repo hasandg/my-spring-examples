@@ -1,7 +1,7 @@
-package com.haydikodlayalim.api;
+package com.hasandag.api;
 
-import com.haydikodlayalim.auth.TokenManager;
-import com.haydikodlayalim.request.LoginRequest;
+import com.hasandag.auth.TokenManager;
+import com.hasandag.request.LoginRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

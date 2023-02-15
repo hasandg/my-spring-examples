@@ -22,6 +22,8 @@
         <module>spring-boot-pagination</module>
         <module>spring-boot-events</module>
         <module>spring-boot-gridfs-fileupload</module>
+        <module>spring-boot-kafka</module>
+        <module>spring-boot-jwt</module>
     </modules>
 
     <build>

@@ -1,7 +1,7 @@
-package com.haydikodlayalim;
+package com.hasandag;
 
-import com.haydikodlayalim.auth.JwtTokenFilter;
-import com.haydikodlayalim.auth.UserDetailsService;
+import com.hasandag.auth.JwtTokenFilter;
+import com.hasandag.auth.UserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

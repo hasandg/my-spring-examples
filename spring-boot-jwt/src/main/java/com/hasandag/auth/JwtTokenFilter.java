@@ -1,4 +1,4 @@
-package com.haydikodlayalim.auth;
+package com.hasandag.auth;
 
 import java.io.IOException;
 import java.util.ArrayList;
