@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-elasticsearch" />
         <module name="spring-boot-dockerization" />
+        <module name="spring-boot-flyway" />
         <module name="spring-boot-rabbitmq" />
         <module name="spring-datajpa-postgresql" />
         <module name="spring-boot-api-doc" />
@@ -30,8 +31,8 @@
         <module name="spring-boot-gridfs-fileupload" />
         <module name="spring-mongo-rest-api" />
         <module name="spring-boot-kafka" />
-        <module name="spring-boot-websocket" />
         <module name="spring-boot-jwt" />
+        <module name="spring-boot-websocket" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -43,6 +44,7 @@
       <module name="spring-boot-api-doc" options="-parameters" />
       <module name="spring-boot-dockerization" options="-parameters" />
       <module name="spring-boot-events" options="-parameters" />
+      <module name="spring-boot-flyway" options="-parameters" />
       <module name="spring-boot-graphql" options="-parameters" />
       <module name="spring-boot-gridfs-fileupload" options="-parameters" />
       <module name="spring-boot-jwt" options="-parameters" />

@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/spring-boot-dockerization/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-events/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-events/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-flyway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-flyway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-graphql/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-graphql/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-gridfs-fileupload/src/main/java" charset="UTF-8" />
